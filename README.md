@@ -6,16 +6,31 @@ I build websites, practical enquiry systems and software for small businesses. I
 
 At [TK Web Studio](https://tkwebstudio.company), I focus on making it easier for customers to understand an offer, request a booking or get in touch. I work directly with business owners rather than offering one-size-fits-all packages.
 
-## TK Web Studio — what I'm building
+## Featured build — TK Web Studio
 
-| Project | Purpose | Current visibility |
+**My role:** Founder · designer · developer  
+**Type:** Independent business, website and internal software platform  
+**Based in:** Durban, South Africa  
+**See it:** [Live website](https://tkwebstudio.company) · [Full project case study](projects/tk-web-studio.md) · [Contact / enquiry journey](https://tkwebstudio.company/contact#form)
+
+I started TK Web Studio because a website should do more than look polished. People should understand what a business offers, know how to enquire and leave the owner with enough information to respond properly.
+
+I've designed and built the public site around that journey: mobile-first pages, clear service and pricing information, selected work, concept demos, a guided contact form and ways to reach me directly. Alongside it, I'm developing private tools for enquiries, quotations, projects and everyday admin.
+
+**What this shows:** product thinking, responsive frontend work, serverless APIs, data workflows, accessibility, SEO and the discipline of testing a real business site.
+
+**Current status:** the public website is live. The application/backend source remains private; internal workflows are evolving. No sales figures, client adoption or conversion improvements are claimed here.
+
+### Related engineering work
+
+| Workstream | Purpose | Status |
 | --- | --- | --- |
-| **[TK Web Studio](https://tkwebstudio.company)** | The studio's public website and supporting business platform: service/pricing pages, guided enquiries, quotation/project workflows and an owner dashboard. | **Public website**; application/backend repository private. |
-| **TK Video Studio** | My short-form video-generator project. The code includes prompt-to-storyboard planning, editable scenes, vertical previews and a self-hosted FFmpeg renderer for MP4 exports. | **In development** within the private TK Web Studio codebase (`video-studio/`). Not a separate public repository or verified customer-facing video service. |
-| **[Website Manager](https://github.com/tkhumalo2022/website-manager)** | A Python CLI for finding local website projects, checking stacks and APIs, and testing safer upload workflows. | **Public source repository**; developer utility, not a hosted customer service. |
-| **AI enquiry and booking-request workflows** | Practical, scoped features that help businesses collect clearer enquiries and hand off to a real person when needed. | Modules and demos within TK Web Studio; capabilities depend on the approved project scope. |
+| **[TK Web Studio website](https://tkwebstudio.company)** | Services, pricing, portfolio, demos and customer enquiry entry points | Public website live |
+| **Private business operations** | Lead records, quotations, project tracking, approved payment-request flows and admin tooling | Private source; ongoing development |
+| **TK Video Studio** | Short-form video planning, editable scenes, vertical previews and FFmpeg-based MP4 rendering | Development workstream in the private codebase, **not** a launched public product |
+| **[Website Manager](https://github.com/tkhumalo2022/website-manager)** | Python CLI for inspecting local website projects, stack checks and safer upload workflows | Public developer utility |
 
-**Video Studio progress:** the prompt planner, scene editor and FFmpeg rendering pipeline are being developed and tested. This is an engineering project, **not an advertised public video-generation service or proof of customer use**.
+[**Read how I approached TK Web Studio →**](projects/tk-web-studio.md)
 
 ## Public project portfolio
 
